@@ -22,7 +22,7 @@
     "fs-finder": "^1.8.1",
     "handlebars-helpers": "^0.8.1",
     "helper-dateformat": "^1.0.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "moment": "^2.20.1",
     "paginator": "^1.0.0",
     "read-chunk": "^2.1.0",
